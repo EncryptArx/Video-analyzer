@@ -1,0 +1,40 @@
+Report for: my_video3.mp4
+
+Timestamp: 2024-10-01 14:35:55 | Duration: 00:00–00:15 | Threat: Medium
+
+
+Critical Alerts:
+
+None critical; no weapons or collisions.
+
+Executive Summary:
+
+In a large indoor workspace, a seated man uses his phone while others work or walk by. A bearded man enters, moves through tables, and searches a bag. A red-capped worker bends at 00:10, retrieving an item. Overall, normal office/warehouse activity with no threats.
+
+Detailed Findings:
+
+Scene Context
+
+Location: Office/warehouse interior
+Conditions: Daylight through glass partitions
+
+Timeline of Key Events:
+
+00:00 : Subject seated front-center on phone.
+00:05 : Bearded man walks left→right across floor.
+00:10 : Red-capped worker bends to pick item.
+00:14 : Bearded man searches bag.
+
+Entities & Behaviors:
+
+People (4+): seated subjects, moving workers.
+Objects: phones, boxes, tables, extension boards.
+Behaviors: walking, phone use, item retrieval, bag search.
+
+Anomalies & Threat Assessment:
+
+No anomalies; behavior consistent with workspace.
+
+Recommendations:
+
+No action required. Monitor activity for safety.

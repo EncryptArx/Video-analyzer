@@ -1,0 +1,37 @@
+Report for: my_video4.mp4
+
+Timestamp: 2020-07-08 20:42:40 | Duration: 00:00–00:11 | Threat: High (suspicious loitering)
+
+ Critical Alerts:
+
+20:42:42 : Loitering: Individual attempts to open car door at night.
+
+Executive Summary:
+
+A white car parked on a lawn under streetlights. A man in a jacket and cap approaches, touches and pries the driver’s door handle, then circles to the front and exits camera view. Behavior suggests attempted theft.
+
+Detailed Findings:
+
+Scene Context
+
+Location: Residential lawn, nighttime
+Conditions: Low light
+
+Timeline of Key Events:
+
+00:00 : Car parked; suspect appears from road.
+00:02 : Suspect touches door handle.
+00:03 : Pries slightly; closes door.
+00:04 : Moves to front; disappears at 00:04.
+
+Entities & Behaviors:
+
+One suspect: loitering, tactile inspection of car.
+
+Anomalies & Threat Assessment:
+
+Suspicious activity—likely attempted break-in; high threat.
+
+Recommendations:
+
+Alert police; increase nighttime patrols.

@@ -1,0 +1,40 @@
+Report for: my_video2.mp4
+
+Timestamp: 2018-02-10 17:18:37 | Duration: 00:00–00:14 | Threat: High (robbery)
+
+ Critical Alerts:
+
+17:18:39 : Robbery: Suspect rapidly snatches a woman’s necklace, causing her to fall.
+
+ Executive Summary:
+
+An elderly couple walks along a small road beside a black water tank and a white parked car. At 00:02, a man in a striped shirt approaches from behind, grabs the woman’s necklace, and flees. The victim falls, then stands and pursues. A bystander is seen in the background.
+
+ Detailed Findings:
+
+Scene Context
+
+Location: Narrow residential road, Cam2
+Conditions: Daylight, clear
+
+Timeline of Key Events:
+
+00:00 : Couple walking (man with blue bag, woman in dark pink saree).
+00:02 :  Striped-shirt suspect appears behind woman.
+00:05 :  Necklace snatched; woman falls at 00:07.
+00:08 :  Suspect runs off; husband and bystander give chase.
+00:14 :  Victim recovers and follows.
+
+Entities & Behaviors:
+
+Victim & companion: calm walking until assault.
+Suspect: rapid approach, violent grab, flight.
+Bystander: appears and continues walking.
+
+Anomalies & Threat Assessment:
+
+Weaponless but forceful robbery; high threat level.
+
+Recommendations:
+
+Contact police immediately. Preserve CCTV footage.

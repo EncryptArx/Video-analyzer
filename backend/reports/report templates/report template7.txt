@@ -1,0 +1,42 @@
+Report for: my_video7.mp4
+
+Duration: 00:00–00:21 | Threat: Very High (armed robbery/hostage)
+
+Critical Alerts:
+
+00:02 : Armed Robbery: Masked intruder with gun demands valuables.
+00:20 : Hostage Situation: Gunman points weapon at unseen individual; possible shooting attempt.
+
+Executive Summary:
+
+In a retail/game-parlour interior, two gunmen in black and ski masks enter. At 00:02, one brandishes a firearm and forces two women to surrender cash. At 00:20, the first gunman pursues a second person into an adjoining white-walled room and attempts to fire.
+
+Detailed Findings:
+
+Scene Context
+
+Location: Indoor store, multiple camera angles
+Conditions: Artificial lighting
+
+Timeline of Key Events:
+
+00:00 : Two women near camera.
+00:02 : First gunman enters, forces surrender.
+00:03 : Second gunman enters main door.
+00:09 : Women hand over cash.
+00:20 : Gunman enters secondary room, points at individual.
+00:21 : Attempted firing; gun jams.
+
+Entities & Behaviors:
+
+Gunmen (3): armed, masked, hostile.
+Victims (2): women, compliant under threat.
+Hostage scenario unfolds in secondary room.
+
+Anomalies & Threat Assessment:
+
+Hostage and potential shooting; extremely high threat.
+
+Recommendations:
+
+Call police and SWAT immediately. Secure area and preserve evidence.

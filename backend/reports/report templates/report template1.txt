@@ -1,0 +1,42 @@
+Report for: my_video1.mp4
+
+Duration: 00:00–00:51 | Outdoor, daylight | Threat: Low
+
+
+Critical Alerts:
+
+None detected
+
+Executive Summary:
+
+A gray car is parked in front of a house adjacent to a roadway. A man and two young girls stand and walk together; later a boy joins and the two girls enter the house. Three additional cars are parked at a distance across the street. No suspicious behavior or threats observed.
+
+ Detailed Findings:
+
+Scene Context
+
+Location: Residential driveway and adjacent road
+Conditions: Daylight, clear visibility
+
+Timeline of Key Events:
+
+
+00:00 :  Gray car parked; man and two girls stand beside it.
+00:30 :  Boy arrives; girls enter the house.
+00:40 :  Three distant cars visible across the road.
+00:51 :  End of footage.
+
+
+Entities & Behaviors:
+
+People (4): man, two girls, boy—all walking calmly.
+Vehicles (4): gray car (foreground), three parked cars (background).
+Notable Behaviors: casual conversation and entry into house.
+
+Anomalies & Threat Assessment:
+
+No anomalies detected.
+
+Recommendations:
+
+No action required. Routine monitoring sufficient.

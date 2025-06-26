@@ -1,0 +1,14 @@
+flask
+opencv-python
+ultralytics
+numpy
+pillow
+torch
+torchvision
+torchaudio
+llama-cpp-python
+deepface
+tensorflow
+scipy
+matplotlib
+seaborn

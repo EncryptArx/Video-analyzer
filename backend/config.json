@@ -1,0 +1,8 @@
+{
+  "model_path": "models/llama-7b.Q4_K_M.gguf",
+  "detection_model": "yolov8n.pt",
+  "face_model": "emotion",
+  "pose_model": "yolov8n-pose.pt",
+  "confidence_threshold": 0.5,
+  "iou_threshold": 0.4
+}

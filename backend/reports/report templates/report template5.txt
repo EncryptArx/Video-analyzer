@@ -1,0 +1,39 @@
+Report for: my_video5.mp4
+
+Timestamp: 2019-07-21 15:39:17 | Duration: 00:00–00:20 | Threat: Medium/High (industrial accident)
+
+Critical Alerts:
+
+15:39:24 : Accident: Worker’s hair entangled in spinning stand fan.
+
+Executive Summary:
+
+In a busy warehouse, two women converse near a stand fan. At 00:06, one woman’s hair is caught; at 00:07 she falls as nearby goods topple. Multiple coworkers rush to assist and free her.
+
+Detailed Findings:
+
+Scene Context
+
+Location: Warehouse interior, daytime
+Conditions: Well-lit, busy environment
+
+Timeline of Key Events:
+
+00:00 : Workers and carts arranged.
+00:06 : Hair caught in fan.
+00:07 : Worker falls; items scatter.
+00:10 : Colleagues assist; free victim by 00:12.
+
+Entities & Behaviors:
+
+Victim: female, hair entanglement, fall.
+Responders: five workers approach to help.
+Objects: heavy boxes topple, fan hazard.
+
+Anomalies & Threat Assessment:
+
+Safety hazard; medium/high threat of injury.
+
+Recommendations:
+
+Call ambulance; perform safety audit on machinery guards.

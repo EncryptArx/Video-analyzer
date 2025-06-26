@@ -1,0 +1,40 @@
+Report for: my_video10.mp4
+
+Timestamp: 2022-01-19 09:08:05 | Duration: 00:00–00:21 | Threat: Very High (collision with injuries)
+
+Critical Alerts:
+
+00:07 : Collision: Car strikes motorcycle mid-crossing; two riders injured.
+00:17 : Potential fatality: One rider motionless; other moving minimally.
+
+Executive Summary:
+
+On a highway intersection, a truck and maroon car cross ahead of motorcycles. At 00:07, a white car collides with a two-rider bike. The riders are thrown; one appears lifeless. The driver inspects the scene at 00:17 before fleeing.
+
+Detailed Findings:
+
+Scene Context
+
+Location: Four-way highway junction, daytime
+Conditions: Clear, busy traffic
+
+Timeline of Key Events:
+
+00:00 : Truck and bike cross intersection.
+00:06 : Maroon car and fast bike follow.
+00:07 : White car collides with slow-crossing bike.
+00:08 : Riders thrown from bike.
+00:17 : Car driver exits, inspects, then retreats.
+
+Entities & Behaviors:
+
+Riders (2): one ambulatory, one motionless.
+Vehicles: truck, maroon car, white car (collision).
+
+Anomalies & Threat Assessment:
+
+High-severity collision; likely fatality/injury.
+
+Recommendations:
+
+Call ambulance and police at once. Block traffic, document scene.

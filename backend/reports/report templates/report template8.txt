@@ -1,0 +1,39 @@
+Report for: my_video8.mp4
+
+Duration: 00:00–00:10 | Threat: Very High (armed group intrusion)
+
+Critical Alerts:
+
+00:02 : Intrusion: Three masked assailants with firearms enter shop.
+
+Executive Summary:
+
+In a portrait-mode, top-down view, three masked individuals dressed in black enter a shop. The first brandishes a gun at an employee at the door, then all three proceed inside. No hostages or victims visible, but weapons displayed.
+
+Detailed Findings:
+
+Scene Context
+
+Location: Shop entrance, top-view
+Conditions: Afternoon, daylight
+
+Timeline of Key Events:
+
+00:00 : Door opened by employee.
+00:01 : Second masked man appears.
+00:02 : First assailant draws gun at employee.
+00:06 : Third masked individual enters behind.
+00:10 : All three inside shop.
+
+Entities & Behaviors:
+
+Three assailants: armed, concealed.
+One civilian: flees outside.
+
+Anomalies & Threat Assessment:
+
+Armed intrusion; very high threat.
+
+Recommendations:
+
+Alert police with live location. Evacuate staff.

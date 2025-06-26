@@ -1,0 +1,39 @@
+Report for: my_video6.mp4
+
+Timestamp: 2023-09-14 10:11:41 | Duration: 00:00–00:20 | Threat: Medium/High (road collision)
+
+Critical Alerts:
+
+00:15 : Accident: Motorcycle collides with car at intersection.
+
+Executive Summary:
+
+At a four-way intersection, pedestrians, cows, and vehicles share the roadway. Two motorcycles approach, then a car enters, striking one bike at 00:15. Riders fall; animal clearances trigger sudden flight.
+
+Detailed Findings:
+
+Scene Context
+
+Location: Urban crossroads, daylight
+Conditions: Clear visibility
+
+Timeline of Key Events:
+
+00:00 : Pedestrians and cow at edge.
+00:05 : Bikes and auto-rickshaws pass.
+00:15 : Car strikes slow-moving bike.
+00:18 : Riders on ground; car stops.
+
+Entities & Behaviors:
+
+Riders (2): one moves after impact, one unconscious.
+Car: white sedan, stops after collision.
+Animals: cow and dog flee on impact.
+
+Anomalies & Threat Assessment:
+
+High risk; possible serious injury.
+
+Recommendations:
+
+Call ambulance; alert traffic authorities.
